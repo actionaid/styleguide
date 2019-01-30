@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>ActionAid style</title>
+    <title>ActionAid International style guide</title>
     <link href="http://styleguide.actionaid.digital/feed.xml" rel="self" />
     <link href="http://styleguide.actionaid.digital" />
-    <updated>2019-01-30T11:23:03+00:00</updated>
+    <updated>2019-01-30T12:01:57+00:00</updated>
     <author>
         <name>Julius</name>
     </author>
