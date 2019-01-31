@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3708691, 2019-01-31T05:15:09-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Auxilia-Bold by Typomancer
+ * URL: https://www.myfonts.com/fonts/typomancer/auxilia/bold/
+ * 
+ * Webfont: Auxilia by Typomancer
+ * URL: https://www.myfonts.com/fonts/typomancer/auxilia/regular/
+ * 
+ * Webfont: Auxilia-Oblique by Typomancer
+ * URL: https://www.myfonts.com/fonts/typomancer/auxilia/oblique/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3708691
+ * Licensed pageviews: 500,000
+ * Webfonts copyright: Copyright (c) 2014 by Typomancer. All rights reserved.
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/389713");
+
+  
+@font-face {font-family: 'Auxilia-Bold';src: url('389713_0_0.eot');src: url('389713_0_0.eot?#iefix') format('embedded-opentype'),url('389713_0_0.woff2') format('woff2'),url('389713_0_0.woff') format('woff'),url('389713_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Auxilia';src: url('389713_1_0.eot');src: url('389713_1_0.eot?#iefix') format('embedded-opentype'),url('389713_1_0.woff2') format('woff2'),url('389713_1_0.woff') format('woff'),url('389713_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Auxilia-Oblique';src: url('389713_2_0.eot');src: url('389713_2_0.eot?#iefix') format('embedded-opentype'),url('389713_2_0.woff2') format('woff2'),url('389713_2_0.woff') format('woff'),url('389713_2_0.ttf') format('truetype');}
+ 
