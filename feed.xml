@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ActionAid International style guide</title>
-    <link href="http://styleguide.actionaid.digital/feed.xml" rel="self" />
-    <link href="http://styleguide.actionaid.digital" />
-    <updated>2019-01-31T10:24:36+00:00</updated>
+    <link href="https://styleguide.actionaid.digital/feed.xml" rel="self" />
+    <link href="https://styleguide.actionaid.digital" />
+    <updated>2019-04-04T18:25:09+01:00</updated>
     <author>
         <name>Julius</name>
     </author>
-    <id>http://styleguide.actionaid.digital</id>
+    <id>https://styleguide.actionaid.digital</id>
 
     <entry>
         <title>Quotes</title>
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/quotes/"/>
-        <id>http://styleguide.actionaid.digital/quotes/</id>
+        <link href="https://styleguide.actionaid.digital/quotes/"/>
+        <id>https://styleguide.actionaid.digital/quotes/</id>
 
         <updated>2019-01-22T21:36:34+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/38/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/38/" alt="" />
                     Block quoteA block quote is a way of formatting a longer quote within the normal flow of content. A pull quote takes a short extract&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/38/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/38/" alt="" />
                 <h2 id="mcetoc_1d1r6j8s10">Block quote</h2>
 <p>A block quote is a way of formatting a longer quote within the normal flow of content.</p>
 <h3 id="mcetoc_1d1r6j8s1k">Pull quote</h3>
@@ -39,19 +39,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/lists/"/>
-        <id>http://styleguide.actionaid.digital/lists/</id>
+        <link href="https://styleguide.actionaid.digital/lists/"/>
+        <id>https://styleguide.actionaid.digital/lists/</id>
 
         <updated>2019-01-22T21:36:05+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/37/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/37/" alt="" />
                     Bullet points are great for emphasising important information. Use them when the items in your list are in no particular order. And do so sparingly:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/37/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/37/" alt="" />
                 <p id="mcetoc_1d1r6j8s1d">Bullet points are great for emphasising important information. Use them when the items in your list are in no particular order. And do so sparingly: too many bulleted lists in the same piece of content will mean that their impact is lost.</p>
 <p>When the order of the items in your list is important, use numbers instead of bullet points.</p>
             ]]>
@@ -62,19 +62,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/links/"/>
-        <id>http://styleguide.actionaid.digital/links/</id>
+        <link href="https://styleguide.actionaid.digital/links/"/>
+        <id>https://styleguide.actionaid.digital/links/</id>
 
         <updated>2019-01-22T21:35:31+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/36/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/36/" alt="" />
                     Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources. Good&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/36/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/36/" alt="" />
                 <p id="mcetoc_1d1r6j8s1d">Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources.</p>
 <p id="mcetoc_1d1r6j8s1f">Good links tell people where they’re going to end up when they click on them. Avoid using words that wouldn’t make sense without the link. And definitely don’t use “click here” or “read this”. Write the sentence as you normally would, and link relevant keywords.</p>
 <p id="mcetoc_1d1r6j8s1g">Don’t include preceding articles (a, an, the, our) when you link text. For example:</p>
@@ -94,19 +94,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/headings/"/>
-        <id>http://styleguide.actionaid.digital/headings/</id>
+        <link href="https://styleguide.actionaid.digital/headings/"/>
+        <id>https://styleguide.actionaid.digital/headings/</id>
 
         <updated>2019-01-22T21:35:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/35/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/35/" alt="" />
                     Typography and hierarchy is important. It’s a vital element of our design. H1 and h2 headings are used by search engines to understand the structure&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/35/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/35/" alt="" />
                 <p id="mcetoc_1d1r6j8s19">Typography and hierarchy is important. It’s a vital element of our design. H1 and h2 headings are used by search engines to understand the structure of our content. Using headings also helps make our content readable and accessible by breaking up text and making it easily scannable.</p>
 <h3 id="mcetoc_1d1r6j8s1a">Formatting</h3>
 <p>Each page should have only one h1, the page title. The first level of subheadings are h2s. We also sometimes use h3s, though we avoid using too many different levels. We never use bold, italics or underlining to style text as a heading.</p>
@@ -122,19 +122,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/forms/"/>
-        <id>http://styleguide.actionaid.digital/forms/</id>
+        <link href="https://styleguide.actionaid.digital/forms/"/>
+        <id>https://styleguide.actionaid.digital/forms/</id>
 
         <updated>2019-01-22T21:34:26+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/34/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/34/" alt="" />
                     The following list of strategies will help you create forms people will find easy (maybe even enjoyable) to complete. Understanding how people might be feeling&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/34/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/34/" alt="" />
                 <p>The following list of strategies will help you create forms people will find easy (maybe even enjoyable) to complete.</p>
 <p>Understanding how people might be feeling as they encounter a form can help you make more informed decisions about the right tone to use. Are you requesting personal, or more general, information? How might this affect people’s frame of mind?</p>
 <p>Consider the purpose and situational context of the form you’re designing, along with the type of information you’re collecting. For example, if you’re preparing a form someone will use to subscribe, you might use a matter-of-fact tone. If you’re designing a form people can use to register for an event, you might use a livelier tone.</p>
@@ -159,19 +159,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/buttons/"/>
-        <id>http://styleguide.actionaid.digital/buttons/</id>
+        <link href="https://styleguide.actionaid.digital/buttons/"/>
+        <id>https://styleguide.actionaid.digital/buttons/</id>
 
         <updated>2019-01-22T21:33:45+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/33/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/33/" alt="" />
                     Buttons should always contain actions. The language should be clear and concise. Capitalise the first word. Standard buttons on our site include: Sign the petition&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/33/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/33/" alt="" />
                 <p id="mcetoc_1d1r6j8s11">Buttons should always contain actions. The language should be clear and concise. Capitalise the first word. Standard buttons on our site include:</p>
 <p class="msg msg--success">Sign the petition<br>Subscribe<br>Donate<br>Read more</p>
             ]]>
@@ -182,19 +182,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/bold-italics-and-underlining/"/>
-        <id>http://styleguide.actionaid.digital/bold-italics-and-underlining/</id>
+        <link href="https://styleguide.actionaid.digital/bold-italics-and-underlining/"/>
+        <id>https://styleguide.actionaid.digital/bold-italics-and-underlining/</id>
 
         <updated>2019-01-22T21:33:12+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/32/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/32/" alt="" />
                     We don’t use bold in normal text. Where they improve clarity and help to make the point, we use italics to emphasise words within a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/32/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/32/" alt="" />
                 <p id="mcetoc_1d1r6j8s10">We don’t use bold in normal text. Where they improve clarity and help to make the point, we use italics to emphasise words within a sentence, but very sparingly.</p>
 <p class="msg msg--success">Sixty-three million children around the world are not in primary school. Many of those who <em>do</em> attend fail to learn basic skills.</p>
 <p>Use italics for foreign words and phrases (with roman translation in brackets); poetry and scientific names.</p>
@@ -207,19 +207,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/case-study/"/>
-        <id>http://styleguide.actionaid.digital/case-study/</id>
+        <link href="https://styleguide.actionaid.digital/case-study/"/>
+        <id>https://styleguide.actionaid.digital/case-study/</id>
 
         <updated>2019-01-22T17:31:32+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/31/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/31/" alt="" />
                     Case studies are images and a short personal story. Which can be referenced from multiple places but which may not need its own URL. Strategic&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/31/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/31/" alt="" />
                 <p><strong>Case studies are </strong>images and a short personal story. Which can be referenced from multiple places but which may not need its own URL.</p>
 <p><strong>Strategic aims</strong>: Provide a human angle to content that can otherwise seem theoretical. By doing this, enhance people's engagement, support and willingness to donate.</p>
 <h3 id="mcetoc_1d1r9ot5s0">Do this</h3>
@@ -232,19 +232,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/job/"/>
-        <id>http://styleguide.actionaid.digital/job/</id>
+        <link href="https://styleguide.actionaid.digital/job/"/>
+        <id>https://styleguide.actionaid.digital/job/</id>
 
         <updated>2019-01-22T17:11:14+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/30/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/30/" alt="" />
                     Description: Information about a job vacancy. Strategic aims: Get the best applicants to apply for ActionAid jobs Digital-first content on the new site means that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/30/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/30/" alt="" />
                 <p><strong>Description</strong>: Information about a job vacancy.</p>
 <p><strong>Strategic aims</strong>: Get the best applicants to apply for ActionAid jobs</p>
 <p>Digital-first content on the new site means that where possible, content isn’t hidden away in downloadable PDFs. So ideally, all of the information about the job would be written concisely on a single web page, as it makes it less confusing.</p>
@@ -266,19 +266,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="http://styleguide.actionaid.digital/profile/"/>
-        <id>http://styleguide.actionaid.digital/profile/</id>
+        <link href="https://styleguide.actionaid.digital/profile/"/>
+        <id>https://styleguide.actionaid.digital/profile/</id>
 
         <updated>2019-01-22T17:08:57+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://styleguide.actionaid.digital/media/posts/29/" alt="" />
+                        <img src="https://styleguide.actionaid.digital/media/posts/29/" alt="" />
                     Profiles are short biographies of staff, board members and contributors. They give a human angle to opinions and to the organisation. Profiles are linked to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://styleguide.actionaid.digital/media/posts/29/" alt="" />
+                    <img src="https://styleguide.actionaid.digital/media/posts/29/" alt="" />
                 <p>Profiles are short biographies of staff, board members and contributors. They give a human angle to opinions and to the organisation.</p>
 <p>Profiles are linked to from opinion pieces and staff pages.</p>
 <h3 id="mcetoc_1d1r8g1ut0">Be concise</h3>
@@ -287,7 +287,7 @@
 <p>Use the same format for each profile: what the person’s role involves details of previous relevant experience, a little bit about their background when it’s relevant to their current job, and a couple of personal nuggets.</p>
 <h3 id="mcetoc_1d1r8g1ut2">Be approachable</h3>
 <p>Portraying the person as down-to-earth doesn’t mean you have to sacrifice talking about expertise. Remember to sound human and avoid jargon, self-importance and listing past glories.</p>
-<p><img class="post__image" src="http://styleguide.actionaid.digital/media/posts/29/Profile.png" alt="" width="777" height="770"></p>
+<p><img class="post__image" src="https://styleguide.actionaid.digital/media/posts/29/Profile.png" alt="" width="777" height="770"></p>
 <ol>
 <li>Never capitalise job titles.</li>
 <li>Use the third person.</li>
