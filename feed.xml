@@ -3,7 +3,7 @@
     <title>ActionAid International style guide</title>
     <link href="https://styleguide.actionaid.digital/feed.xml" rel="self" />
     <link href="https://styleguide.actionaid.digital" />
-    <updated>2019-05-09T13:42:19+01:00</updated>
+    <updated>2019-05-09T13:52:31+01:00</updated>
     <author>
         <name>Julius</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://styleguide.actionaid.digital/inclusivity/"/>
         <id>https://styleguide.actionaid.digital/inclusivity/</id>
 
-        <updated>2019-05-09T11:46:41+01:00</updated>
+        <updated>2019-05-09T13:45:45+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://styleguide.actionaid.digital/media/posts/17/" alt="" />
@@ -138,7 +138,7 @@
         <link href="https://styleguide.actionaid.digital/words-2/"/>
         <id>https://styleguide.actionaid.digital/words-2/</id>
 
-        <updated>2019-05-09T13:41:56+01:00</updated>
+        <updated>2019-05-09T13:47:51+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://styleguide.actionaid.digital/media/posts/18/" alt="" />
@@ -151,23 +151,21 @@
                 <p id="mcetoc_1d1r66sff1">These words can be slippery. Here’s how we write them. This is a growing list; if you have suggested additions, please let us know.</p>
 <p><strong>ActionAid</strong><br>one word, not two; both As are capital letters. As far as possible, try to portray ActionAid as a single, coherent body. So w<span style="font-weight: 400;">hen talking about our work in a particular country from an international perspective, say "ActionAid in Uganda" or something to that effect, rather than "ActionAid Uganda".</span></p>
 <p><strong>blog</strong><br>a blog is collection of blog posts; never use blog to mean a single post; as much as possible, use article instead of blog post.</p>
-<p><strong>Côte d’Ivoire</strong></p>
-<p>not the Ivory Coast</p>
+<p><strong>Côte d’Ivoire</strong><br>not the Ivory Coast</p>
 <p><strong>email</strong><strong><br></strong>never hyphenate; never capitalise, unless it begins a sentence</p>
 <p><strong>emoji</strong><br>singular and plural</p>
 <p><strong>the Gambia</strong></p>
 <p><strong>hashtag</strong></p>
 <p><strong>homepage</strong></p>
-<p><strong>internet</strong></p>
-<p><strong>never capitalise unless it begins a sentence.</strong></p>
+<p><strong>internet</strong><br>never capitalise unless it begins a sentence.</p>
 <p><strong>login</strong> (noun, adjective), <strong>log in</strong> (verb)</p>
 <p><strong>OK</strong></p>
-<p><strong>online</strong></p>
-<p>never capitalise unless it begins a sentence.</p>
+<p><strong>online</strong><br>never capitalise unless it begins a sentence.</p>
 <p><strong>signup</strong> (noun, adjective), <strong>sign up</strong> (verb)</p>
 <p>tweet, retweet</p>
 <p>URL</p>
 <h2 id="mcetoc_1d1r66sff3">Words and phrases to avoid</h2>
+<p><span style="font-weight: 400;">Jargon, elitism,  anything you’d need a degree to understand.</span></p>
 <table>
 <tbody>
 <tr>
@@ -417,7 +415,7 @@
         <link href="https://styleguide.actionaid.digital/brand-personality-traits/"/>
         <id>https://styleguide.actionaid.digital/brand-personality-traits/</id>
 
-        <updated>2019-05-09T13:42:08+01:00</updated>
+        <updated>2019-05-09T13:44:16+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://styleguide.actionaid.digital/media/posts/2/" alt="" />
@@ -430,14 +428,13 @@
                 <p>ActionAid International is all of these things (not necessarily all at the same time).</p>
 <h3 id="mcetoc_1d1qp7njk5">1. A modern thinker.</h3>
 <p>We are thoughtful and insightful but not elitist. Opinionated but still approachable. Youthful and in touch.</p>
-<h3 id="mcetoc_1d1qp7njk6">2. A wry writer.</h3>
-<p>Unafraid of authority and a pricker of pomposity.</p>
+<h3 id="mcetoc_1d1qp7njk6">2. A brave writer.</h3>
+<p>Unafraid of authority and a pricker of pomposity. <span style="font-weight: 400;">Confident using the power of evidence to cut to the heart.</span></p>
 <h3 id="mcetoc_1d1qp7njk7">3. A no-nonsense straight-talker.</h3>
 <p>A rocker of boats, a holder to account, a challenger of the status quo. Gritty and raw.</p>
 <h3 id="mcetoc_1d1qp7njk8">4. An insightful confidante.</h3>
-<p>Sensitive and empathetic, but not a mincer of words. A builder of principled bridges.</p>
-<h3 id="mcetoc_1d1qp7njk9">5. A soul of the party.</h3>
-<p>Vivacious and brave but not headstrong.</p>
+<p>Sensitive and empathetic, but not a mincer of words. <span style="font-weight: 400;">Respects dignity. Empowers by offering a platform to under-represented voices. </span></p>
+<h3 id="mcetoc_1d1qp7njk9"> </h3>
             ]]>
         </content>
     </entry>
@@ -557,7 +554,7 @@
         <link href="https://styleguide.actionaid.digital/forms/"/>
         <id>https://styleguide.actionaid.digital/forms/</id>
 
-        <updated>2019-01-22T21:34:26+00:00</updated>
+        <updated>2019-05-09T13:48:14+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://styleguide.actionaid.digital/media/posts/34/" alt="" />
@@ -578,7 +575,7 @@
 <p>We strive to design content that’s equally accessible — and enjoyable — across all devices. That said, keeping users’ device preferences in mind can help us make decisions about form language.</p>
 <h3 id="mcetoc_1d1r6j8s16">Keep it concise</h3>
 <p>Brevity is especially important when creating forms. People are completing your form to achieve a certain end; don’t create more work for them by using unwieldy or long-winded descriptions.</p>
-<p>Create labels that are concise and to the point — “First name” is much easier to comprehend at a glance than “What moniker do you go by?” Short labels are also easier to read on mobile, and potentially save money on translations.</p>
+<p>Create labels that are concise and to the point.</p>
 <h3 id="mcetoc_1d1r6j8s17">Align field length with response length</h3>
 <p>Fields should be the right size for the information you’re requesting. Fields for capturing a first or a last name or a city of residence can be short; fields meant to capture longer responses – a complaint or request, for instance – should be sized so that people can see what they’re typing before submitting it.</p>
 <h3 id="mcetoc_1d1r6j8s18">Don’t make optional information required</h3>
