@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://styleguide.actionaid.digital/inclusivity/",
+            "url": "https://styleguide.actionaid.digital/inclusivity/",
+            "title": "Inclusivity",
+            "summary": "The words we use can make the difference between forging positive connections or creating distance in our personal and professional lives. Particularly in writing, impact&hellip;",
+            "content_html": "<p>The words we use can make the difference between forging positive connections or creating distance in our personal and professional lives. Particularly in writing, impact is more important than intent.</p>\n<p>We want to ensure that our content is accessible and welcoming to everyone who uses it. Inclusive language helps us to be more accurate and build trust with our users.</p>\n<p>This guidance is influenced by the <a href=\"http://consciousstyleguide.com/\">Conscious Style Guide</a>, <a href=\"http://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf\">A Progressive’s Style Guide</a> and the <a href=\"https://www.diversitystyleguide.com/\">Diversity Style Guide</a>, all of which are good sources of more detail on inclusive language.</p>\n<h2 id=\"mcetoc_1d1r5v5sl0\">Ability and disability</h2>\n<p>Every person is a whole person — no matter how they interact with the world. Focus on what they need to do and what tools they use, and avoid making assumptions.</p>\n<table>\n<tbody>\n<tr>\n<td>\n<p><strong>Use</strong></p>\n</td>\n<td>\n<p><strong>Don’t use</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>disabled people</p>\n</td>\n<td>\n<p>the disabled</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>blind people</p>\n</td>\n<td>\n<p>the blind</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>deaf people</p>\n</td>\n<td>\n<p>the deaf</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>person who has, person with</p>\n</td>\n<td>\n<p>victim of, suffering from, afflicted by or crippled by</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>uses a wheelchair</p>\n</td>\n<td>\n<p>wheelchair-bound, in a wheelchair</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>disabled person</p>\n</td>\n<td>\n<p>person who is less able, invalid</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>person with learning difficulties or disabilities</p>\n</td>\n<td>\n<p>mentally handicapped, backward, retarded, slow</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>deaf and speech-impaired, hearing and speech-impaired</p>\n</td>\n<td>\n<p>deaf and dumb</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Avoid using terms that contribute to stigmas around disability or mental illness: lame, insane, psycho or schizophrenic.</p>\n<p>Avoid using terms that contribute to stigmas around sensory disabilities: blind spot or tone deaf.</p>\n<h2 id=\"mcetoc_1d1r5v5sl1\">Age</h2>\n<p><span style=\"font-weight: 400;\">With the exception of providing detail for a case study, a</span>void defining people by their age, just as you would avoid defining people by the colour of their skin or their sexual orientation. Mention age when it’s relevant to the content, but avoid it where it’s superfluous.</p>\n<p class=\"msg msg--success\">Yes: Ramesh, who is 85, has lived in the village for 75 years.</p>\n<p class=\"msg msg--warning\">No: Jane (37) says that she’s very happy to give ActionAid £10 a month.</p>\n<p>Don’t use women or older relatives as substitute for novice or beginner. For example, don’t say something is so simple your mother can use it.</p>\n<p>We prefer older person to elderly.</p>\n<h2 id=\"mcetoc_1d1r5v5sl2\">Gender and sexuality</h2>\n<p>Make content gender neutral wherever possible, and strive to write in a gender-fair way. If you’re writing about a hypothetical person or if you’re unsure of the person’s pronouns, use they or them instead of he/she.</p>\n<p>Avoid words and phrases that indicate gender bias, such as irrelevant descriptions of appearance.</p>\n<p>Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, transgender person, or lesbian woman). Avoid guessing sex, gender identity, or sexual orientation.</p>\n<p>We support using they or their as singular pronouns.</p>\n<p>As with all acronyms, avoid using LGBTIQ if possible. If you really need to use an acronym, use this version rather than LGBT, LGBTI or LGBTQ.</p>\n<h2 id=\"mcetoc_1d1r5v5sl3\">Race, ethnicity, and religion</h2>\n<p>Avoid using words, images, or situations that reinforce racial, ethnic, or religious stereotypes (even stereotypes that may appear to be positive). Avoid the term non-white, or other terms that treat whiteness as a default.</p>\n<p>Don’t make assumptions: ask how people identify themselves, and be aware of complexities within racial, ethnic, and religious identities. For example, not all Arabs are Muslim, and many nationalities and ethnicities include various religious practices and traditions.</p>\n<p>When referring to a person’s race or ethnicity, use adjectives, not nouns (for example, a Hispanic person, not a Hispanic).</p>\n<p>Talk about indigenous people, but avoid capitalising, which makes this seem like an official label, and emphasises otherness.</p>",
+            "image": "https://styleguide.actionaid.digital/media/posts/17/",
+            "author": {
+                "name": "Julius"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-09T11:46:41+01:00",
+            "date_modified": "2019-05-09T11:46:41+01:00"
+        },
+        {
+            "id": "https://styleguide.actionaid.digital/words-2/",
+            "url": "https://styleguide.actionaid.digital/words-2/",
+            "title": "Words",
+            "summary": "These words can be slippery. Here’s how we write them. This is a growing list; if you have suggested additions, please let us know. ActionAid&hellip;",
+            "content_html": "<p id=\"mcetoc_1d1r66sff1\">These words can be slippery. Here’s how we write them. This is a growing list; if you have suggested additions, please let us know.</p>\n<p><strong>ActionAid</strong><br>one word, not two; both As are capital letters. As far as possible, try to portray ActionAid as a single, coherent body. So w<span style=\"font-weight: 400;\">hen talking about our work in a particular country from an international perspective, say \"ActionAid in Uganda\" or something to that effect, rather than \"ActionAid Uganda\".</span></p>\n<p><strong>blog</strong><br>a blog is collection of blog posts; never use blog to mean a single post; as much as possible, use article instead of blog post.</p>\n<p><strong>Côte d’Ivoire</strong></p>\n<p>not the Ivory Coast</p>\n<p><strong>email</strong><strong><br></strong>never hyphenate; never capitalise, unless it begins a sentence</p>\n<p><strong>emoji</strong><br>singular and plural</p>\n<p><strong>the Gambia</strong></p>\n<p><strong>hashtag</strong></p>\n<p><strong>homepage</strong></p>\n<p><strong>internet</strong></p>\n<p><strong>never capitalise unless it begins a sentence.</strong></p>\n<p><strong>login</strong> (noun, adjective), <strong>log in</strong> (verb)</p>\n<p><strong>OK</strong></p>\n<p><strong>online</strong></p>\n<p>never capitalise unless it begins a sentence.</p>\n<p><strong>signup</strong> (noun, adjective), <strong>sign up</strong> (verb)</p>\n<p>tweet, retweet</p>\n<p>URL</p>\n<h2 id=\"mcetoc_1d1r66sff3\">Words and phrases to avoid</h2>\n<table>\n<tbody>\n<tr>\n<td>\n<p><strong>Use</strong></p>\n</td>\n<td>\n<p><strong>Don’t use</strong></p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>liaising with key local stakeholders</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Try to talk about people; be as specific as possible</p>\n</td>\n<td>\n<p>global south, global north (it’s <a href=\"https://www.theguardian.com/global-development/poverty-matters/2014/sep/01/development-ngos-third-world-global-south\">misleading</a>). If it’s unavoidable, don’t capitalise.</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>silver bullet</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>capacity building</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>beneficiaries</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>third world; first world</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>at the end of the day</p>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<p>evidenced</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>people living in poverty</p>\n</td>\n<td>\n<p>poor people</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Talk about how we can support people living in poverty (and citizens acting in solidarity with them) to become rights activists.</p>\n</td>\n<td>\n<p>rights holder</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>young men and women</p>\n</td>\n<td>\n<p>youth or young people</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>women's economic rights</p>\n</td>\n<td>\n<p>women’s economic empowerment</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>women’s decent work</p>\n</td>\n<td>\n<p>women’s labour</p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "image": "https://styleguide.actionaid.digital/media/posts/18/",
+            "author": {
+                "name": "Julius"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-09T11:46:35+01:00",
+            "date_modified": "2019-05-09T11:46:35+01:00"
+        },
+        {
             "id": "https://styleguide.actionaid.digital/publication/",
             "url": "https://styleguide.actionaid.digital/publication/",
             "title": "Publication",
@@ -129,36 +159,6 @@
             ],
             "date_published": "2019-01-22T21:33:45+00:00",
             "date_modified": "2019-01-22T21:33:45+00:00"
-        },
-        {
-            "id": "https://styleguide.actionaid.digital/bold-italics-and-underlining/",
-            "url": "https://styleguide.actionaid.digital/bold-italics-and-underlining/",
-            "title": "Bold, italics and underlining",
-            "summary": "We don’t use bold in normal text. Where they improve clarity and help to make the point, we use italics to emphasise words within a&hellip;",
-            "content_html": "<p id=\"mcetoc_1d1r6j8s10\">We don’t use bold in normal text. Where they improve clarity and help to make the point, we use italics to emphasise words within a sentence, but very sparingly.</p>\n<p class=\"msg msg--success\">Sixty-three million children around the world are not in primary school. Many of those who <em>do</em> attend fail to learn basic skills.</p>\n<p>Use italics for foreign words and phrases (with roman translation in brackets); poetry and scientific names.</p>\n<p>Don’t underline for emphasis. Underlined text is reserved for links.</p>",
-            "image": "https://styleguide.actionaid.digital/media/posts/32/",
-            "author": {
-                "name": "Julius"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-22T21:33:12+00:00",
-            "date_modified": "2019-01-22T21:33:12+00:00"
-        },
-        {
-            "id": "https://styleguide.actionaid.digital/case-study/",
-            "url": "https://styleguide.actionaid.digital/case-study/",
-            "title": "Case study",
-            "summary": "Case studies are images and a short personal story. Which can be referenced from multiple places but which may not need its own URL. Strategic&hellip;",
-            "content_html": "<p><strong>Case studies are </strong>images and a short personal story. Which can be referenced from multiple places but which may not need its own URL.</p>\n<p><strong>Strategic aims</strong>: Provide a human angle to content that can otherwise seem theoretical. By doing this, enhance people's engagement, support and willingness to donate.</p>\n<h3 id=\"mcetoc_1d1r9ot5s0\">Do this</h3>\n<p>Use a photo and succinct text to tell a story which will give a human angle and context to our content.</p>",
-            "image": "https://styleguide.actionaid.digital/media/posts/31/",
-            "author": {
-                "name": "Julius"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-22T17:31:32+00:00",
-            "date_modified": "2019-01-22T17:31:32+00:00"
         }
     ]
 }
