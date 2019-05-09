@@ -11,6 +11,36 @@
     },
     "items": [
         {
+            "id": "https://styleguide.actionaid.digital/publication/",
+            "url": "https://styleguide.actionaid.digital/publication/",
+            "title": "Publication",
+            "summary": "Ideally, short reports and other publications such as briefings should be created digital-first, because digital content is more accessible and more user-friendly than a PDF.",
+            "content_html": "<p>Ideally, short reports and other publications such as briefings should be created digital-first, because digital content is more accessible and more user-friendly than a PDF. This means that instead of producing a PDF, then uploading it to the website for people to download, the publication is created as a web page, or series of webpages, in the first instance.</p>\n<p>The new site allows us to create in depth long-form content that loads faster, is mobile-friendly, is more findable by search engines and is updatable.</p>\n<p>Most of our existing publications are PDFs. For those we can create engaging landing pages where people can read a summary of the content online, as well as downloading the PDF.</p>\n<h2 id=\"mcetoc_1d1r8oavv0\">Do this</h2>\n<h3 id=\"mcetoc_1d1r8oavv1\">Pull out the interesting stuff</h3>\n<p>The content on the page should stand as interesting content in its own right. Start with the issue, not with details about the project or the publication. Downloads add a further level of depth for people who want to explore further.</p>\n<h3 id=\"mcetoc_1d1r8oavv2\">Think about SEO and your users</h3>\n<p>Add details about the project where it gives useful, interesting information but don't prioritise this content.</p>\n<h3 id=\"mcetoc_1d1r8oavv3\">Paddle, swim, dive</h3>\n<p>Publications are often the deepest level of content, offering the full version of the thinking and research. If the full report is the dive and the swim is the executive summary, what’s the paddle?</p>\n<h3 id=\"mcetoc_1d1r8oavv4\">Manage expectations, entice</h3>\n<p>Let people know a little about what they'll get if they download the report. Encourage deeper engagement, but don’t force it.</p>\n<h3 id=\"mcetoc_1d1r8oavv5\">Give people ways to get involved</h3>\n<p>Some people will be happy paddling; give those people ways to engage (by donating, for example, or by campaigning).</p>\n<h2 id=\"mcetoc_1d1r8oavv6\">Like this</h2>\n<p><img class=\"post__image\" src=\"https://styleguide.actionaid.digital/media/posts/9/Publication.png\" alt=\"\" width=\"766\" height=\"1651\"></p>\n<ol>\n<li>\n<p id=\"mcetoc_1d1r8oavv7\">Titles should explain what the publication is about.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavv8\">Subtitles allow some additional context. A good subtitle pulls readers in to the content, encouraging them to read more.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavv9\">Use the publication date of the publication.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavva\">Start with the issue, not with details about the project or the publication. The content on the page should stand as interesting content in its own right. Downloads add a further level of depth for people who want to explore further.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavvb\">Summarise the problem early on.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavvc\">Add details about the project where it gives useful, interesting information but don't prioritise this content.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavvd\">Emphasise the community- and people-powered aspects.</p>\n</li>\n<li>\n<p id=\"mcetoc_1d1r8oavve\">Let people know a little about what they'll get if they download the report.</p>\n</li>\n</ol>",
+            "image": "https://styleguide.actionaid.digital/media/posts/9/",
+            "author": {
+                "name": "Julius"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-09T11:36:35+01:00",
+            "date_modified": "2019-05-09T11:36:35+01:00"
+        },
+        {
+            "id": "https://styleguide.actionaid.digital/brand-personality-traits/",
+            "url": "https://styleguide.actionaid.digital/brand-personality-traits/",
+            "title": "Brand personality traits",
+            "summary": "ActionAid International is all of these things (not necessarily all at the same time). We are thoughtful and insightful but not elitist. Opinionated but still&hellip;",
+            "content_html": "<p>ActionAid International is all of these things (not necessarily all at the same time).</p>\n<h3 id=\"mcetoc_1d1qp7njk5\">1. A hip thinker.</h3>\n<p>We are thoughtful and insightful but not elitist. Opinionated but still approachable. Youthful and in touch.</p>\n<h3 id=\"mcetoc_1d1qp7njk6\">2. A wry writer.</h3>\n<p>Unafraid of authority and a pricker of pomposity.</p>\n<h3 id=\"mcetoc_1d1qp7njk7\">3. A no-nonsense straight-talker.</h3>\n<p>A rocker of boats, a holder to account, a challenger of the status quo. Gritty and raw.</p>\n<h3 id=\"mcetoc_1d1qp7njk8\">4. An insightful confidante.</h3>\n<p>Sensitive and empathetic, but not a mincer of words. A builder of principled bridges.</p>\n<h3 id=\"mcetoc_1d1qp7njk9\">5. A soul of the party.</h3>\n<p>Vivacious and brave but not headstrong.</p>",
+            "image": "https://styleguide.actionaid.digital/media/posts/2/",
+            "author": {
+                "name": "Julius"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-09T11:36:31+01:00",
+            "date_modified": "2019-05-09T11:36:31+01:00"
+        },
+        {
             "id": "https://styleguide.actionaid.digital/quotes/",
             "url": "https://styleguide.actionaid.digital/quotes/",
             "title": "Quotes",
@@ -129,36 +159,6 @@
             ],
             "date_published": "2019-01-22T17:31:32+00:00",
             "date_modified": "2019-01-22T17:31:32+00:00"
-        },
-        {
-            "id": "https://styleguide.actionaid.digital/job/",
-            "url": "https://styleguide.actionaid.digital/job/",
-            "title": "Job",
-            "summary": "Description: Information about a job vacancy. Strategic aims: Get the best applicants to apply for ActionAid jobs Digital-first content on the new site means that&hellip;",
-            "content_html": "<p><strong>Description</strong>: Information about a job vacancy.</p>\n<p><strong>Strategic aims</strong>: Get the best applicants to apply for ActionAid jobs</p>\n<p>Digital-first content on the new site means that where possible, content isn’t hidden away in downloadable PDFs. So ideally, all of the information about the job would be written concisely on a single web page, as it makes it less confusing.</p>\n<p>But as second preference, the web page is kept fairly short and all the subheadings are filled in with relevant information, including just enough information about the role for the applicant to decide whether they are potentially suitable. Applicants can then download further information as a PDF.</p>\n<h2 id=\"mcetoc_1d1r8jk850\">Do this</h2>\n<h3 id=\"mcetoc_1d1r8jk851\">Be human</h3>\n<p>Writing in a warm and friendly way will show people that ActionAid is a great place to work. Use the future tense and the second person to create an instant rapport with them.</p>\n<h3 id=\"mcetoc_1d1r8jk852\">Be inspiring</h3>\n<p>Use language that excites people about the role, the aims of ActionAid and how they will help to change the world in their new job.</p>\n<h3 id=\"mcetoc_1d1r8jk853\">Get to the point</h3>\n<p>The more concise and focused your job advert copy is, the higher quality of applications you will receive.</p>\n<h3 id=\"mcetoc_1d1r8jk854\">Think about the user experience</h3>\n<p>Applying for a new job can be a stressful process, plus it might be the first time a new person has interacted with ActionAid. Give people a good impression of your organisation by being well organised and sensitive. Be clear about what you expect from them from the start of the process to the finish.</p>",
-            "image": "https://styleguide.actionaid.digital/media/posts/30/",
-            "author": {
-                "name": "Julius"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-22T17:11:14+00:00",
-            "date_modified": "2019-01-22T17:11:14+00:00"
-        },
-        {
-            "id": "https://styleguide.actionaid.digital/profile/",
-            "url": "https://styleguide.actionaid.digital/profile/",
-            "title": "Profile",
-            "summary": "Profiles are short biographies of staff, board members and contributors. They give a human angle to opinions and to the organisation. Profiles are linked to&hellip;",
-            "content_html": "<p>Profiles are short biographies of staff, board members and contributors. They give a human angle to opinions and to the organisation.</p>\n<p>Profiles are linked to from opinion pieces and staff pages.</p>\n<h3 id=\"mcetoc_1d1r8g1ut0\">Be concise</h3>\n<p>A hundred words is plenty. People can find out more about them by clicking on social media links.</p>\n<h3 id=\"mcetoc_1d1r8g1ut1\">Be consistent</h3>\n<p>Use the same format for each profile: what the person’s role involves details of previous relevant experience, a little bit about their background when it’s relevant to their current job, and a couple of personal nuggets.</p>\n<h3 id=\"mcetoc_1d1r8g1ut2\">Be approachable</h3>\n<p>Portraying the person as down-to-earth doesn’t mean you have to sacrifice talking about expertise. Remember to sound human and avoid jargon, self-importance and listing past glories.</p>\n<p><img class=\"post__image\" src=\"https://styleguide.actionaid.digital/media/posts/29/Profile.png\" alt=\"\" width=\"777\" height=\"770\"></p>\n<ol>\n<li>Never capitalise job titles.</li>\n<li>Use the third person.</li>\n<li>Don’t repeat the person’s job title in the body. Instead, explain what the person does – job titles don’t necessarily communicate this.</li>\n<li>When talking about lengths of time, use dates as opposed to a number of years, so the information stays true as it ages.</li>\n<li>Include a couple of sentences about their background where it is directly relevant to the person’s current role.</li>\n<li>Include a personal detail or two to make them seem like a human.</li>\n</ol>",
-            "image": "https://styleguide.actionaid.digital/media/posts/29/",
-            "author": {
-                "name": "Julius"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-22T17:08:57+00:00",
-            "date_modified": "2019-01-22T17:08:57+00:00"
         }
     ]
 }
