@@ -3,7 +3,7 @@
     <title>ActionAid International style guide</title>
     <link href="https://styleguide.actionaid.digital/feed.xml" rel="self" />
     <link href="https://styleguide.actionaid.digital" />
-    <updated>2019-05-09T11:46:58+01:00</updated>
+    <updated>2019-05-09T13:42:19+01:00</updated>
     <author>
         <name>Julius</name>
     </author>
@@ -138,7 +138,7 @@
         <link href="https://styleguide.actionaid.digital/words-2/"/>
         <id>https://styleguide.actionaid.digital/words-2/</id>
 
-        <updated>2019-05-09T11:46:35+01:00</updated>
+        <updated>2019-05-09T13:41:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://styleguide.actionaid.digital/media/posts/18/" alt="" />
@@ -172,104 +172,177 @@
 <tbody>
 <tr>
 <td>
-<p><strong>Use</strong></p>
-</td>
-<td>
 <p><strong>Don’t use</strong></p>
 </td>
-</tr>
-<tr>
-<td> </td>
 <td>
-<p>liaising with key local stakeholders</p>
+<p><strong>Try instead</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Try to talk about people; be as specific as possible</p>
+<p><span style="font-weight: 400;">Capacity building</span></p>
 </td>
 <td>
-<p>global south, global north (it’s <a href="https://www.theguardian.com/global-development/poverty-matters/2014/sep/01/development-ngos-third-world-global-south">misleading</a>). If it’s unavoidable, don’t capitalise.</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p>silver bullet</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p>capacity building</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p>beneficiaries</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p>third world; first world</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p>at the end of the day</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p>evidenced</p>
+<p><span style="font-weight: 400;">Training (not trainings) </span></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>people living in poverty</p>
+<p><span style="font-weight: 400;">Civil society</span></p>
 </td>
 <td>
-<p>poor people</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Talk about how we can support people living in poverty (and citizens acting in solidarity with them) to become rights activists.</p>
-</td>
-<td>
-<p>rights holder</p>
+<p><span style="font-weight: 400;">Charities, activists </span></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>young men and women</p>
+<p><span style="font-weight: 400;">Stakeholders </span></p>
 </td>
 <td>
-<p>youth or young people</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>women's economic rights</p>
-</td>
-<td>
-<p>women’s economic empowerment</p>
+<p><span style="font-weight: 400;">Governments, communities, people, partners, trustees, staff, supporters (whoever you’re talking about)</span></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>women’s decent work</p>
+<p><span style="font-weight: 400;">Beneficiaries </span></p>
 </td>
 <td>
-<p>women’s labour</p>
+<p><span style="font-weight: 400;">Affected people</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">global south, global north (it’s </span><a href="https://www.theguardian.com/global-development/poverty-matters/2014/sep/01/development-ngos-third-world-global-south"><span style="font-weight: 400;">misleading</span></a><span style="font-weight: 400;">, and oversimplified). If it’s unavoidable, don’t capitalise.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Communities, people </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Poor people</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">People living in poverty </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Third world, first world </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Developing countries, developed countries</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Evidenced by</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">As seen in... shown by...according to</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Rights holder </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Talk about how we can support people living in poverty (and citizens acting in solidarity with them) to become rights activists and hold governments and corporations to account. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Duty bearer </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Decision maker, government, corporation, </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Women’s economic empowerment</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">women's economic rights</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Youth </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">young men and women</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Foregrounding </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Promoting, emphasising, championing </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Neoliberal macroeconomic orthodoxy </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Societies / corporations driven by profit and greed. </span></p>
+<p><span style="font-weight: 400;">Cost cutting measures which erode workers’ rights. </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Dialoguing</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Discussed with, feedback from</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Actors </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Charities, UN, be specific </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Gender responsive public services / GRPS</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Services like nurseries, care homes or water points near to the village …</span></p>
+<p><span style="font-weight: 400;">...services which make women’s lives easier and enable them to focus on earning money.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Arenas </span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Opportunities to hold decision-makers accountable </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">NFIs, Non food items</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Essential supplies such as xxxx</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Multi-sectoral</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">In coordination, collaboration with ...</span></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -344,7 +417,7 @@
         <link href="https://styleguide.actionaid.digital/brand-personality-traits/"/>
         <id>https://styleguide.actionaid.digital/brand-personality-traits/</id>
 
-        <updated>2019-05-09T11:36:31+01:00</updated>
+        <updated>2019-05-09T13:42:08+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://styleguide.actionaid.digital/media/posts/2/" alt="" />
@@ -355,7 +428,7 @@
             <![CDATA[
                     <img src="https://styleguide.actionaid.digital/media/posts/2/" alt="" />
                 <p>ActionAid International is all of these things (not necessarily all at the same time).</p>
-<h3 id="mcetoc_1d1qp7njk5">1. A hip thinker.</h3>
+<h3 id="mcetoc_1d1qp7njk5">1. A modern thinker.</h3>
 <p>We are thoughtful and insightful but not elitist. Opinionated but still approachable. Youthful and in touch.</p>
 <h3 id="mcetoc_1d1qp7njk6">2. A wry writer.</h3>
 <p>Unafraid of authority and a pricker of pomposity.</p>
