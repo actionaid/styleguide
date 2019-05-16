@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ActionAid visual design guidelines</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="https://actionaid.org/themes/custom/site_theme/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://actionaid.org/themes/custom/site_theme/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="194x194" href="https://actionaid.org/themes/custom/site_theme/images/favicon/favicon-194x194.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="https://actionaid.org/themes/custom/site_theme/images/favicon/android-chrome-192x192.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://actionaid.org/themes/custom/site_theme/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="https://actionaid.org/themes/custom/site_theme/images/favicon/site.webmanifest">
+        <link rel="mask-icon" href="https://actionaid.org/themes/custom/site_theme/images/favicon/safari-pinned-tab.svg" color="#1C1C1C">
+        <link rel="shortcut icon" href="https://actionaid.org/themes/custom/site_theme/images/favicon/favicon.ico">
+        <style type="text/css">
+            @font-face {
+                font-family: "Auxilia";
+                src: url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia.eot");
+                src:
+                url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia.woff") format("woff"),
+                url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia.svg") format("svg");
+                src: local(Auxilia), url("Auxilia.ttf");
+            }
+            @font-face {
+                font-family: "Auxilia-Light";
+                src: url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia-Light.eot");
+                src:
+                url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia-Light.woff") format("woff"),
+                url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia-Light.svg") format("svg");
+                src: local("Auxilia Light"), url("Auxilia-Light.ttf");
+            }
+            @font-face {
+                font-family: "Auxilia-Bold";
+                src: url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia-Bold.eot");
+                src:
+                url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia-Bold.woff") format("woff"),
+                url("https://actionaid.org/themes/custom/site_theme/fonts/Auxilia/Auxilia-Bold.svg") format("svg");
+                src: local("Auxilia Bold"), url("Auxilia-Bold.ttf");
+            }
+            body { 
+                max-width: 785px;
+                margin-left: auto;
+                margin-right: auto;
+                padding: 1rem;
+                font-family: Auxilia, Helvetica, Arial, sans-serif; 
+                color: #1C1C1C;
+            }
+            h1 {font-weight: 300; padding:3rem 0 0 0;}
+            h2 {font-weight:300; padding:2rem 0 2rem 0;}
+            h3 {font-weight: 400; padding:1.5rem 0 1.5rem 0;}
+            h1, h2, h3, h1+p {text-align: center;}
+            p, li {line-height: 1.8rem;}
+            a, a:visited {color: #1C1C1C; text-decoration: none; box-shadow: inset 0px -2px 0px #1C1C1C;}
+            a:hover {box-shadow: inset 0px -2px 0px #EC0407;}
+            strong {font-family:"Auxilia-Bold"; font-style:normal;}
+            blockquote {border-left:solid 6px #EC0407; margin:1.5rem;}
+            blockquote p {padding-left:1.5rem; font-size:1.3rem; line-height:2rem;}
+            .colourWhite {background-color: #FFFFFF; color: #1C1C1C;}
+            .colourCharcoal {background-color: #1C1C1C; color: #FFF;}
+            .colourRed {background-color: #FB171C; color: #FFF;}
+            .colourAqua {background-color: #92CCBE; color: #1C1C1C;}
+            .colourBlue {background-color: #2F7DA7; color: #FFF;}
+            .colourCoral {background-color: #FF7D69; color: #1C1C1C;}
+            .colourPink {background-color: #ECC4C5; color: #1C1C1C;}
+            .colourPurple {background-color: #774C68; color: #FFF;}
+            .colourSage {background-color: #677C5F; color: #FFF;}
+            .colourSteel {background-color: #8FB4BE; color: #1C1C1C;}
+            .colourStone {background-color: #C6BDAE; color: #1C1C1C;}
+            .colourYellow {background-color: #F4BC03; color: #1C1C1C;}
+            .colourPalette div {padding: 1rem; display:grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); grid-gap: 1rem; align-items: stretch;}
+            .colourPalette div div {box-shadow:0px 8px 20px rgba(28,28,28,0.25);}
+            .colourPalette span {display: block; font-size: 0.8rem;}
+            .helvetica {font-family:Helvetica;}
+            .arial {font-family:Arial;}
+            .expandExclamation {width:75px; margin-left:auto; margin-right:auto;}
+            .expandExclamation object {width:75px; height:auto;}
+            .iconPalette {width:fit-content; margin-left:auto; margin-right:auto;}
+            .iconPalette img {padding: 1rem; width:50px; height:auto;}
+            .iconWhite {background-color: #FFF;}
+            .iconBlack {background-color: #1C1C1C;}
+            .iconBlue {background-color: #2F7DA7;}
+            .sideBySide {display:inline-block;width:49%;padding:0;margin:0;}
+            .shadeDemo {display:grid; grid-template-rows:1fr 2fr; height:375px; background-image:url("https://actionaid.org/sites/default/files/styles/vertical_thumbnail_374x471_/public/images/2019-02/163154.jpg"); background-position:bottom;}
+            .shadeText {grid-row:2; color:#FFF; text-align:center; font-size:1.1rem;}
+            .shadeText p {padding: 60% 1rem 1rem 1rem;}
+            .shadeText2 {background: linear-gradient(to bottom, transparent, #1C1C1C);}
+            .solidBackgroundDemo {display:grid; grid-template-rows:1fr 2fr; width:49%; margin:0 auto 0 auto; height:375px; background-image:url("https://actionaid.org/sites/default/files/styles/vertical_thumbnail_374x471_/public/images/2019-02/163154.jpg"); background-position:bottom;}
+            .solidBackgroundDemo div {grid-row:2; text-align:center;}
+            .solidBackgroundDemo div p {padding: 50% 0.5rem 0.5rem 0.5rem;}
+            .solidBackgroundDemo div p span {background-color:#FFF; padding:1rem; font-size:1.5rem; font-family:"Auxilia-Light";}
+            .expandContours {width:100%; height:auto;}
+        </style>
+    </head>
+    <body>
+        <h1>ActionAid visual design guidelines</h1>
+        <p>Creating graphics for ActionAid</p>
+        <p>Contents:</p>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#layout">Layout</a></li>
+            <li><a href="#navigation">Navigation</a></li>
+            <li><a href="#colour">Colour</a></li>
+            <li><a href="#typography">Typography</a></li>
+            <li><a href="#ornaments">Ornaments</a></li>
+            <li><a href="#motion">Motion</a></li>
+        </ul>
+
+        <h2 id="introduction">Introduction</h2>
+        <p>We use various design elements in strategic ways. Doing so consistently helps to maintain good design practices and that our design language is coherent.</p>
+        <p>In these guidelines you’ll find instructions about how to use digital design to convey the ActionAid brand. They were based on learnings from the new website project, but strive to be applicable to any visual design medium.</p>
+
+        <h2 id="layout">Layout</h2>
+        <p>We establish visual hierarchy through various and flexible design techniques. However the hierarchy itself should be less flexible. We have guidance on how to define and reinforce this hierarchy.</p>
+        <h3>Hierarchy priorities</h3>
+        <ol>
+            <li><strong>Actions</strong> should be prominent, so that no other design component should obfuscate them. They indicates where users can undertake an activity to support our mission; such as making a donation, signing a petition, sharing our content on social media, and so on.</li>
+            <li><strong>People</strong>, as in the power thereof, should take high priority. The best way to show people is through our photography, but real people should take a central place through our content as well. This is commonly achieved using case studies.</li>
+            <li><strong>Core branding</strong> also occupies a high priority in our hierarchy, principally the ActionAid logo. This must be recognisable but not the main focus of the design.</li>
+            <li><strong>Emphases</strong> might be added to any part of the below; titles, subtitles and quotes in particular. These should be more visible than non-emphasised components.</li>
+            <li><strong>Titles, subtitles and quotes</strong> are the phrases that articulate your key messages.</li>
+            <li><strong>Design ornaments</strong> should be used sparingly and only insofar as they communicate information. They will be more prominent than body text, having a wider semantic scope, but should not overshadow the key messages.</li>
+            <li><strong>Body text</strong> is the lowest priority because it is the only component that is used in a forensic reading. All other components contribute to casual readings that are impactful for all audiences.</li>
+        </ol>
+        <h3>Hierarchy design elements</h3>
+        <ul>
+            <li><strong>Contrast</strong> should be high throughout all elements, but this is more important for higher priorities than lower. Actions, branding and emphases must <a href="https://webaim.org/resources/contrastchecker/">pass an AAA accessibility rating</a>. Design ornaments can have a lower contrast rating as the information they convey is purely structural.</li>
+            <li><strong>Space</strong> can be used to create hierarchy, and white space can be used generously. Contours can be used to soften white space, allowing more space to be created without giving the empty space emphasis.</li>
+            <li><strong>Scale</strong> is not necessarily used to linearly denote importance, though it can be. An action doesn’t necessarily need to be the largest component in a design, despite being the highest priority, but a photograph often is and thereby demonstrates a high priority.</li>
+            <li><strong>Density</strong> is related to space and scale but applies to information. Having lots of information of similar priority within a view will be confusing. Keep your information density low so that your messages are more digestible.</li>
+        </ul>
+
+        <h2 id="navigation">Navigation</h2>
+        <p>Often multiple pieces of content are presented for the user to choose. Organising such content becomes important to aid this navigation. It can be tempting to group content by geography, but this should be avoided at the international level. Instead, organise content thematically; such as along or within our programmatic priorities.</p>
+        <p>Users should not be forced to use a map to navigate through content - this requires too great a knowledge of geography and can often lead to close clusters of data points that are difficult to click or tap. Maps can be used to illustrate a single location, if the location is relevant to the story and does not pose a safeguarding risk. Maps can also be used to illustrate the relationship between two locations, such as a travel journey. More than two data points on a map should be avoided.</p>
+        
+        <h2 id="colour">Colour</h2>
+        <p>Colour selection is important. We have adjusted and expanded our palette for better flexibility. Use these colours in your design work to reinforce the hierarchy priorities in your layout.</p>
+        <div class="colourPalette">
+            <h3>Primary</h3>
+            <div class="coloursPrimary">
+                <div class="colourWhite">White <span>#FFFFFF</span></div>
+                <div class="colourCharcoal">ActionAid Charcoal <span>#1C1C1C</span></div>
+                <div class="colourRed">Action Red <span>#FB171C</span></div>
+            </div>
+            <p>Action Red is our most important colour, and should be used strategically. We use this red to denote action, because it is the most urgent and attention-grabbing colour in our palette. It is also used for core branding collateral, like the ActionAid logo, in order to associate our brand with action and change. Avoid using this colour for any other purpose.</p>
+            <h3>Secondary</h3>
+            <p>Our secondary palette has been selected to complement, not compete with, our higher priority components such as actions and people. Earthy and rich, these colours can be used flexibly. When used for title cards, pick one colour and use it consistently. When used for infographics and animations, multiple colours can be used together. They can be lightened or darkened if necessary, but use these colours by default.</p>
+            <div class="coloursSecondary">
+                <div class="colourAqua">ActionAid Aqua <span>#92CCBE</span></div>
+                <div class="colourBlue">ActionAid Blue <span>#2F7DA7</span></div>
+                <div class="colourCoral">ActionAid Coral <span>#FF7D69</span></div>
+                <div class="colourPink">ActionAid Pink <span>#ECC4C5</span></div>
+                <div class="colourPurple">ActionAid Purple<span>#774C68</span></div>
+                <div class="colourSage">ActionAid Sage <span>#677C5F</span></div>
+                <div class="colourSteel">ActionAid Steel <span>#8FB4BE</span></div>
+                <div class="colourStone">ActionAid Stone<span>#C6BDAE</span></div>
+                <div class="colourYellow">ActionAid Yellow <span>#F4BC03</span></div>
+            </div>
+            <p>When using a secondary colour under text, ensure that the right text colour is used to give the most contrast and better visibility. Do not use these colours for core branding. Only the primary palette should be used for things like the ActionAid logo. Do not place these secondary colours directly alongside Action Red, instead use white space to separate them.</p>
+        </div>
+
+        <h2 id="typography">Typography</h2>
+        <p>When using text, always ensure that your copy abides by our <a href="https://styleguide.actionaid.digital">style guide</a>.</p>
+        <h3>Auxilia</h3>
+        <p>Our primary typeface is <a href="https://www.myfonts.com/fonts/typomancer/auxilia/">Auxilia</a>. It's a geometric sans serif font with a playful yet intelligent edge. Auxilia performs well at many different sizes, suitable for both large headings and body copy.</p>
+        <p>Headings should be set in a larger font size but a lighter weight. Body text should be set in a normal weight. The <a href="https://www.bbc.co.uk/gel/guidelines/typography#type-sizes">BBC Global Experience Language guidelines on type sizes</a> provide a good template for thinking about how different use cases should impact typefacing on different screen sizes and contexts.</p>
+        <h3>Alternatives</h3>
+        <p>In situations where using Auxilia isn't possible, <span class="helvetica">Helvetica</span> or <span class="arial">Arial</span> are acceptable alternatives. When using software with a fixed font selection, <span class="helvetica">Helvetica</span> or <span class="arial">Arial</span> are normally available.</p>
+        <p>Do not use rounded or condensed versions of these fonts. Their systematic use should be identical to those listed above for Auxilia.</p>
+
+        <h2 id="ornaments">Ornaments</h2>
+        <h3>Exclamation mark</h3>
+        <div class="expandExclamation">
+            <object type="image/svg+xml" data="https://actionaid.org/themes/custom/site_theme/images/svgs/exclamation.svg">
+                Your browser does not support SVG
+            </object>
+        </div>
+        <p>The ActionAid exclamation mark is part of our core branding. But it can also be used ornamentally. Do this exclusively to signify actions in an ornamental context. It can also be used as the square version of the ActionAid logo, such as in favicons and social profile pictures.</p>
+        <h3>Iconography</h3>
+        <p>Icons are a useful and versatile way of communicating complex information quickly. They rely on being reminiscent of shapes that users are already familiar with. This is why they are often shaped like cameras, disks and other objects.</p>
+        <div class="iconPalette">
+            <div class="iconWhite">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/content-icons/news-icon-white.svg" title="White news icon" alt="White news icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/nav-icon/search-icon.svg" title="Search icon" alt="Search icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/content-icons/publication-icon-white.svg" title="White publication icon" alt="White publication icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/video-caption-icon-black.svg" title="Black video caption icon" alt="Black video caption icon">
+            </div>
+            <div class="iconBlack">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/content-icons/news-icon-black.svg" title="Black news icon" alt="Black news icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/nav-icon/search-icon-white.svg" title="White search icon" alt="White search icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/content-icons/publication-icon-black.svg" title="Black publication icon" alt="Black publication icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/video-caption-icon.svg" title="Video caption icon" alt="Video caption icon">
+            </div>
+            <div class="iconBlue">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/content-icons/news-icon-blue.svg" title="Blue news icon" alt="Blue news icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/nav-icon/search-icon-blue.svg" title="Blue search icon" alt="Blue search icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/content-icons/publication-icon-blue.svg" title="Blue publication icon" alt="Blue publication icon">
+                <img src="https://actionaid.org/themes/custom/site_theme/images/svgs/video-caption-icon.svg" title="Video caption icon" alt="Video caption icon">
+            </div>
+        </div>
+        <p>When used in ActionAid designs, icons should use transparent backgrounds and not more than two colours. Having light and dark versions will help to ensure that good contrast levels maintain visibility. Axis-aligned rectangular and circular vectors should be used in our icons as much as possible.</p>
+        <h3>Shades</h3>
+        <p>Shades should be used in order to enable text over an image to be more visible through greater contrast. As this involves placing text over an image, be careful to never cover the faces of the people in a photograph with either text or shade. Shades should have a gradient such that the shadow blends in to the image without a visible horizon.</p>
+        <div class="sideBySide">
+            <div class="shadeDemo">
+                <div class="shadeText">
+                    <p>How easily can you read this text?</p>
+                </div>
+            </div>
+        </div>
+        <div class="sideBySide">
+            <div class="shadeDemo">
+                <div class="shadeText shadeText2">
+                    <p>How easily can you read this text?</p>
+                </div>
+            </div>
+        </div>
+        <h3>Solid backgrounds</h3>
+        <p>Backgrounds of block colour are sometimes preferable to shades in order to make text or ornaments even more visible. This is especially true with stand-alone items and emphases. If more than half of a photograph’s edge needs to be modified for contrast, shades are preferable. When shaping a solid background, either axis-aligned rectangles or circles should be used.</p>
+        <div class="solidBackgroundDemo">
+            <div>
+                <p><span>#NotBad</span></p>
+            </div>
+        </div>
+        <h3>Lines</h3>
+        <p>Vertical lines in Action Red are used alongside quotes. Action Red can be used in this case as it resonates with our brand; amplifying excluded voices. Otherwise lines should not use Action Red but rather one of our secondary colours, if not white/charcoal or not used at all.</p>
+        <blockquote><p>"Here's an example of a quote. It has an Action Red left border because, like photography, it's a good way to articulate our brand essence - <em>the power in people</em>. If you want to add a line to a block of text that isn't a quote then use another colour; like charcoal or blue."</p></blockquote>
+        <h3>Contours</h3>
+        <p>Contour lines can be used to soften white space, allowing more space to be created without giving the empty space emphasis. These are reminiscent of maps, accentuating the global nature of ActionAid’s work.</p>
+        <object class="expandContours" type="image/svg+xml" data="https://actionaid.org/themes/custom/site_theme/images/svgs/horizontal-wave/simple-wave.svg">
+            Your browser does not support SVG
+        </object>
+
+        <h2 id="motion">Motion</h2>
+        <p>We do not currently have specific guidelines on motion, but may develop these in future. The <a href="https://material.io/design/motion/understanding-motion.html">Material Design guidelines on motion</a> can provide suitable guidance in the meantime.</p>
+
+
+
+
+
+    </body>
+</html>
